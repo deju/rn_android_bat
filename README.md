@@ -1,5 +1,5 @@
 
-目前针对windows上`react-native`项目的快捷操作工具。在windows上点击上述`.bat`格式的文件就可完成对应的功能。
+针对windows上`react-native`项目的快捷操作工具。在windows上点击上述`.bat`格式的文件就可完成对应的功能。
 
 ### 第一步：下载`rn`开头的文件
 ### 第二步：所有文件都存放在项目目录中    
