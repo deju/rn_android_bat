@@ -1,11 +1,14 @@
 
 针对**Windows && Mac**上`react-native`项目的android项目快捷操作工具。    
 
-在Windows上点击上述`.bat`格式的文件就可完成对应的功能。
-在Mac的终端中执行`.sh`后缀的文件。
+在Windows上点击上述`.bat`格式的文件就可完成对应的功能。    
+
+在Mac的终端中执行`.sh`后缀的文件。    
+
 
 ### 第一步：下载`rn`开头的文件
-Windows用户下载win目录中的文件
+Windows用户下载win目录中的文件    
+    
 Mac用户下载mac目录中的文件
 
 ### 第二步：所有文件都存放在项目目录中    
