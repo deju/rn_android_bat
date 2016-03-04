@@ -1,1 +1,1 @@
-react-native start
+rn-win-android-bat.bat start

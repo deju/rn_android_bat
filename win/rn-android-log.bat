@@ -1,1 +1,1 @@
-adb logcat *:S ReactNative:V ReactNativeJS:V
+rn-win-android-bat.bat  log

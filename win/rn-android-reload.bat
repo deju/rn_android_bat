@@ -1,1 +1,1 @@
-adb shell input keyevent 82
+rn-win-android-bat.bat  reload
